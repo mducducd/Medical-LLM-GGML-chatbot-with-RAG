@@ -1,0 +1,66 @@
+a[href*='https://github.com/Chainlit/chainlit'] {
+    visibility: hidden;
+}
+
+.css-qsb7md {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    border-bottom: 1px solid rgb(238, 238, 238) !important;
+    background: #e0f7ff !important;
+    padding: 0px 16px !important;
+    min-height: 60px !important;
+}
+
+.css-1s25wxt {
+    width: 95% !important;
+    margin: 2px !important;
+    line-height: 1.5;
+    min-height: 20px;
+    font-size: 1rem;
+    font-family: Inter, sans-serif;
+    font-weight: 380 !important;
+    outline: none !important;
+    border-color: #7d9cbd !important;
+    box-shadow: 0 0 20px #719ECE !important;
+    background-color: #d5fbfa !important;
+    border: px solid #ccc !important;
+    border-radius: 12px !important;
+    padding: 8px 10px !important;
+    -webkit-text-stroke-width: 0.5px !important;
+    -webkit-text-stroke-color: #7f6666 !important;
+}
+
+.css-1ruedog {
+    border: 1px solid rgb(4 46 111 / 62%)!important;
+    color: rgb(15 54 71) !important;
+}
+.css-1vhtqje {
+    color: rgb(14 95 129)!important;
+}
+
+.css-1ecxs1h {
+    background-color: rgb(8 120 175)!important;
+}
+
+element.style {
+    max-height: 50px !important;
+}
+
+.css-1j8qrh1 {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255) !important;
+    border-radius: 12px !important;
+    border: 2px solid rgb(53 186 209) !important;
+}
+
+.css-1s3oi5q {
+    color: rgb(0 0 0);
+    background-color: rgb(201 212 215) !important;
+}
+
+.css-19mvntf {
+    background-color: #697b8138;
+}
