@@ -6,4 +6,7 @@
   - External knowledge database (reference product including diseases/disorders and tests/treatments of thousand medical topic)
 - UI: Streamlit
 
-![Logo](image.png)
+<div align="center">
+  <img src="screenshots/image.png" width="400" alt="Main Demo" />
+  <img src="screenshots/image2.png" width="800" alt="Mobile View" />
+</div>
