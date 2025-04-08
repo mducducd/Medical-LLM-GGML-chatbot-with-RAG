@@ -2,8 +2,8 @@
 
 - LLM: MedAlpace 13B model
 - RAG
-  - FAISS (Facebook AI Similarity Search
-  - External knowledge database (reference product including diseases/disorders and tests/treatments of thousand medical topic)
+  - FAISS (Facebook AI Similarity Search)
+  - External knowledge database (references including diseases/disorders and tests/treatments of thousand medical topics)
 - UI: Streamlit
 
 <div align="center">
