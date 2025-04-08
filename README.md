@@ -10,3 +10,6 @@
   <img src="screenshots/image.png" width="400" alt="Main Demo" />
   <img src="screenshots/image2.png" width="800" alt="Mobile View" />
 </div>
+
+![Alt text](image.png)  # If image is in an `images` folder
+![Alt text](image1.png)         
