@@ -9,5 +9,5 @@
 <div align="center">
   <img src="image.png" width="400" alt="Project Screenshot">
 </div>
-![Alt text](image.png) 
+
 ![Alt text](image1.png)         
